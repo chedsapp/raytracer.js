@@ -1,4 +1,9 @@
-Browser based ray tracer written in GLSL and JS
+Browser based ray tracer written in GLSL and JS.
+
+# How to run
+
+Edit code in `src/index.html`, run locally or copy and paste text inside `src/base64encoded.txt` into browser url bar.
+Press the play button in the bottom right and click the screen to move the camera. Controls listed below.
 
 # Screenshots
 
@@ -12,4 +17,4 @@ Browser based ray tracer written in GLSL and JS
 
 > **W, A, S, D, SPCBAR, SHIFT** - Forward, left, back, right, up, down
 
-> **H** - Return camera position
+> **H** - Return camera position (Debug)
