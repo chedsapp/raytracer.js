@@ -9,5 +9,7 @@ Browser based ray tracer written in GLSL and JS
 # Controls
 
 > **M** - Supersampling toggle
+
 > **W, A, S, D, SPCBAR, SHIFT** - Forward, left, back, right, up, down
+
 > **H** - Return camera position
